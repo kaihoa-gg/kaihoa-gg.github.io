@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efe07615-3e7a-4735-a7cf-7fceffa38467" name="Changes" comment="build 2025-12-16" />
+    <list default="true" id="efe07615-3e7a-4735-a7cf-7fceffa38467" name="Changes" comment="build 2026-01-07" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +30,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
     "last_opened_file_path": "/home/u/dev/kaihoa-gg.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -42,7 +43,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-WS-253.28294.332" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.29346.143" />
       </set>
     </attachedChunks>
   </component>
@@ -58,6 +59,7 @@
       <workItem from="1761761290165" duration="270000" />
       <workItem from="1761761577813" duration="554000" />
       <workItem from="1765897721079" duration="110000" />
+      <workItem from="1767787967229" duration="252000" />
     </task>
     <task id="LOCAL-00001" summary="build 2025-10-28">
       <option name="closed" value="true" />
@@ -91,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765897740991</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="build 2026-01-07">
+      <option name="closed" value="true" />
+      <created>1767788058002</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767788058002</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +134,7 @@
     <MESSAGE value="build 2025-10-28" />
     <MESSAGE value="build 2025-10-29" />
     <MESSAGE value="build 2025-12-16" />
-    <option name="LAST_COMMIT_MESSAGE" value="build 2025-12-16" />
+    <MESSAGE value="build 2026-01-07" />
+    <option name="LAST_COMMIT_MESSAGE" value="build 2026-01-07" />
   </component>
 </project>
